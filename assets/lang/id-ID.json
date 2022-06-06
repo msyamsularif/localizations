@@ -1,0 +1,12 @@
+{
+    "appBar": {
+        "title": "Demo Aplikasi Pertambahan"
+    },
+    "body": {
+        "title": "Anda telah menekan tombol ini beberapa kali:",
+        "card" :{
+            "title" : "Ubah Bahasa",
+            "subTitle" : "Kamu dapat merubah bahasa aplikasi"
+        }
+    }
+}

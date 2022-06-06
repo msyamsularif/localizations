@@ -1,0 +1,12 @@
+{
+    "appBar": {
+        "title": "Demo Aplication Counting"
+    },
+    "body": {
+        "title": "You have pushed the button this many times:",
+        "card": {
+            "title": "Language Change",
+            "subTitle": "You can change application language"
+        }
+    }
+}
